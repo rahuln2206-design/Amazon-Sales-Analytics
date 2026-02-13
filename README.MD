@@ -59,11 +59,11 @@ The objective was to identify revenue drivers, regional performance patterns, cu
 
 ### Executive Overview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ### Filtered View Example
 
-![Dashboard Filtered](images/dashboard_filtered.png)
+![Dashboard Filtered](dashboard_filtered.png)
 
 ---
 
